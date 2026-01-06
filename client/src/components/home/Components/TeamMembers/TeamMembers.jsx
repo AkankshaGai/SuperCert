@@ -34,68 +34,68 @@ slider.current.style.transform =`translateX(${tx}%)`
              <li>
               <div className="slide">
                 <div className='user-info'>
-                  <img src={User1} />
+                  <img src={abc} />
                   <div>
-                    <h3>Akanksha Gairola</h3>
+                    <h3>Abc</h3>
                     <p>Group Leader</p>
-                    <p>Roll No.: 41</p>
-                    <p>Gmail: akanksha.a.gairola@slrtce.in</p>
+                    <p>Roll No.: 1</p>
+                    <p>Gmail: abc.xyz@gmail.com</p>
                   </div>
                 </div>
                 <div className='Footer'>
-                 <a href="https://www.linkedin.com/in/akanksha-g01/"><img src={Linkedln} /></a><span />
-                 <a href="https://github.com/AkankshaGa/"><img src={Github} /></a>
+                 <a href="https://www.linkedin.com/in/"><img src={Linkedln} /></a><span />
+                 <a href="https://github.com/"><img src={Github} /></a>
                </div> </div>
             </li>
             {/* Member 2 */}
             <li>
               <div className="slide">
                 <div className='user-info'>
-                  <img src={User1} />
+                  <img src={abc} />
                   <div>
-                    <h3>Akanksha Gairola</h3>
+                    <h3>Abc</h3>
                     <p>Group Leader</p>
-                    <p>Roll No.: 41</p>
-                    <p>Gmail: akanksha.a.gairola@slrtce.in</p>
+                    <p>Roll No.: 1</p>
+                    <p>Gmail:abc.xyz@gmail.com</p>
                   </div>
                 </div>
                 <div className='Footer'>
-                 <a href="https://www.linkedin.com/in/akanksha-g01/"><img src={Linkedln} /></a><span />
-                 <a href="https://github.com/AkankshaGa/"><img src={Github} /></a>
+                 <a href="https://www.linkedin.com/in/"><img src={Linkedln} /></a><span />
+                 <a href="https://github.com/"><img src={Github} /></a>
                </div> </div>
             </li>
             {/* Member 3 */}
             <li>
               <div className="slide">
                 <div className='user-info'>
-                  <img src={User1} />
+                  <img src={abc} />
                   <div>
-                    <h3>Akanksha Gairola</h3>
+                    <h3>Abc</h3>
                     <p>Group Leader</p>
-                    <p>Roll No.: 41</p>
-                    <p>Gmail: akanksha.a.gairola@slrtce.in</p>
+                    <p>Roll No.:1</p>
+                    <p>Gmail:abc.xyz@gmail.com</p>
                   </div>
                 </div>
                 <div className='Footer'>
-                 <a href="https://www.linkedin.com/in/akanksha-g01/"><img src={Linkedln} /></a><span />
-                 <a href="https://github.com/AkankshaGa/"><img src={Github} /></a>
+                 <a href="https://www.linkedin.com/in/"><img src={Linkedln} /></a><span />
+                 <a href="https://github.com/"><img src={Github} /></a>
                </div> </div>
             </li>
             {/* Member 4 */}
             <li>
               <div className="slide">
                 <div className='user-info'>
-                  <img src={User1} />
+                  <img src={abc} />
                   <div>
-                    <h3>Akanksha Gairola</h3>
+                    <h3>Abc</h3>
                     <p>Group Leader</p>
-                    <p>Roll No.: 41</p>
-                    <p>Gmail: akanksha.a.gairola@slrtce.in</p>
+                    <p>Roll No.:1</p>
+                    <p>Gmail:abc.xyz@gmail.com</p>
                   </div>
                 </div>
                 <div className='Footer'>
-                 <a href="https://www.linkedin.com/in/akanksha-g01/"><img src={Linkedln} /></a><span />
-                 <a href="https://github.com/AkankshaGa/"><img src={Github} /></a>
+                 <a href="https://www.linkedin.com/in/"><img src={Linkedln} /></a><span />
+                 <a href="https://github.com/"><img src={Github} /></a>
                </div> </div>
             
             
