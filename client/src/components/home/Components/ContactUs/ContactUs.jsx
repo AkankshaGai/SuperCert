@@ -37,8 +37,8 @@ export default function ContactUs() {
         <h3>Send us a message <img src ={Msg} /></h3>
         <p>Please feel free to contact us for any inquiries</p>
         <ul>
-            <li><img src={Mail} />Contact: akanksha.a.gairola@slrtce.in</li>
-            <li><img src={Phone} />9637303766</li>
+            <li><img src={Mail} />Contact: abc.xyz@gmail.com</li>
+            <li><img src={Phone} />1234567890</li>
             <li><img src={Location} />Shree LR Tiwari College of Engineering</li>
         </ul>
         </div>
